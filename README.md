@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmors" alt="Cosmo Rodrigues" /> </p>
 
-⭐️ Based in [CallmeMehdi](https://github.com/anuraghazra)
+⭐️ Based in [Johnatas Henrique](https://github.com/johnatas-henrique/johnatas-henrique)
