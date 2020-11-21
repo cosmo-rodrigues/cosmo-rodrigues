@@ -18,6 +18,9 @@
 ### About me...
 Since my first computer course I realized the transformative power of technology, since then I have been passionate and enthusiastic about it. I believe that through technological innovations the world can become more just. I'm study full stack web development at Trybe, an incredible school with a teaching methodology that simulates a day by day work, providing technical and human skills in an environment of diversities. 
 
+### Contact
+- 📫 Please, contact me: cosmo.rsilva@gmail.com
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cosmors&theme=radical&show_icons=true)
 
 ## Hard skills
