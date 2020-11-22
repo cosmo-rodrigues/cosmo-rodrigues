@@ -20,6 +20,7 @@ Since my first computer course I realized the transformative power of technology
 
 ### Contact
 - 📫 Please, contact me: cosmo.rsilva@gmail.com
+- 💬 My curriculum: https://gitconnected.com/cosmors/resume
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cosmors&theme=radical&show_icons=true)
 
