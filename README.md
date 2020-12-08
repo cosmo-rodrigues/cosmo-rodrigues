@@ -9,9 +9,6 @@
 
 ### If you wanna find me...
 
-<a href="https://github.com/cosmors" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a>  
 <a href="https://www.linkedin.com/in/cosmo-rodrigues-5939871b0/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>  
