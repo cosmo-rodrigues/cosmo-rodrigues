@@ -1,9 +1,9 @@
 <div align = "center">
      <img width = 600px;
     height = 120px;
-    overflow = hidden;
-    position = relative;
-     src="https://www.clker.com/cliparts/5/3/5/8/15163294841138871582free-spiderman-web-clipart.hi.png" />
+    object-fit = cover;
+    object-position = center;
+     src = "https://www.clker.com/cliparts/5/3/5/8/15163294841138871582free-spiderman-web-clipart.hi.png" />
 </div>
 <p align = "center" >## Web Developer</p>
 
