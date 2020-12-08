@@ -1,11 +1,6 @@
 <div align = "center">
-     <img width = 600px;
-    height = 120px;
-    object-fit = cover;
-    object-position = center;
-     src = "https://media-exp1.licdn.com/dms/image/C4E16AQEq558eGPPUWg/profile-displaybackgroundimage-shrink_350_1400/0/1607346923954?e=1613001600&v=beta&t=mMje8gKDzAjVgQbQBGjn5f4LqNVVuURT1EjEbf961tM" />
+     <img src = "https://media-exp1.licdn.com/dms/image/C4E16AQEq558eGPPUWg/profile-displaybackgroundimage-shrink_350_1400/0/1607346923954?e=1613001600&v=beta&t=mMje8gKDzAjVgQbQBGjn5f4LqNVVuURT1EjEbf961tM" />
 </div>
-<h1 align = "center" >Web Developer</h1>
 
 ### If you wanna find me...
 
