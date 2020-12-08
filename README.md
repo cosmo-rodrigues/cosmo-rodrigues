@@ -5,7 +5,7 @@
     object-position = center;
      src = "https://www.clker.com/cliparts/5/3/5/8/15163294841138871582free-spiderman-web-clipart.hi.png" />
 </div>
-<p align = "center" >## Web Developer</p>
+<h1 align = "center" >Web Developer</h1>
 
 ### If you wanna find me...
 
