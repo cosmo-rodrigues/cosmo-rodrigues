@@ -1,7 +1,3 @@
-<div align = "center">
-     <img src = "https://i.pinimg.com/236x/1e/9d/3a/1e9d3a67e8eb622ec9a380e7f347f214.jpg" />
-</div>
-
 ### If you wanna find me...
 
 <a href="https://www.linkedin.com/in/cosmo-rodrigues-5939871b0/" target="_blank">
