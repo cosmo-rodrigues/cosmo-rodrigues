@@ -1,5 +1,5 @@
 <div align = "center">
-     <img src = "https://media-exp1.licdn.com/dms/image/C4E16AQEq558eGPPUWg/profile-displaybackgroundimage-shrink_350_1400/0/1607346923954?e=1613001600&v=beta&t=mMje8gKDzAjVgQbQBGjn5f4LqNVVuURT1EjEbf961tM" />
+     <img src = "https://www.linkedin.com/in/cosmo-rodrigues-5939871b0/detail/background-image/" />
 </div>
 
 ### If you wanna find me...
