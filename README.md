@@ -15,7 +15,7 @@ Since my first computer course I realized the transformative power of technology
 
 ### Contact
 - 📫 Please, contact me: cosmo.rsilva@gmail.com
-- 💬 <a href="https://resume.io/r/E3wUiBlaa" target="_blank">Resume</a>
+- 💬 <a href="https://drive.google.com/file/d/1-JnYxFTVKiBbtnsIalaadWXZaygDZZNc/view?usp=sharing" target="_blank">Resume</a>
 
 ## Hard skills
 <p align="left">
