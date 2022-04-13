@@ -17,8 +17,6 @@ Since my first computer course I realized the transformative power of technology
 - 📫 Please, contact me: cosmo.rsilva@gmail.com
 - 💬 <a href="https://resume.io/r/E3wUiBlaa" target="_blank">Resume</a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cosmors&theme=radical&show_icons=true)
-
 ## Hard skills
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> 
@@ -41,11 +39,6 @@ Since my first computer course I realized the transformative power of technology
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmors&layout=compact&theme=material-palenight" />
-</a>
-
 <!--
 **cosmors/cosmors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,5 +55,3 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmors" alt="Cosmo Rodrigues" /> </p>
-
-⭐️ Based in [Johnatas Henrique](https://github.com/johnatas-henrique/johnatas-henrique)
