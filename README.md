@@ -28,6 +28,10 @@ Since my first computer course I realized the transformative power of technology
   <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/jquery/jquery-plain-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </p>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Spring" width="40" height="40"/> 
+</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/windows8/windows8-original.svg" alt="linux" width="40" height="40" />
