@@ -3,8 +3,8 @@ Since my first computer course I realized the transformative power of technology
 
 ### Contact
 - 📫 Please, contact me: cosmo.rsilva@gmail.com
-- 💬 <a href="https://drive.google.com/file/d/1-JnYxFTVKiBbtnsIalaadWXZaygDZZNc/view?usp=sharing" target="_blank">Resume</a>
-- 🗣 <a href="https://drive.google.com/file/d/1-JnYxFTVKiBbtnsIalaadWXZaygDZZNc/view?usp=sharing" target="_blank">LinkedIn</a>
+- 💬 <a href="https://drive.google.com/file/d/1Z2UCCzCKhCsygeOAfTpldR5LHckj8ur6/view?usp=sharing" target="_blank">Resume</a>
+- 🗣 <a href="https://www.linkedin.com/in/cosmo-rodrigues" target="_blank">LinkedIn</a>
 
 ## Hard skills
 <p align="left">
