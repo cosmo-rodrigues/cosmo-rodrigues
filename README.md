@@ -34,7 +34,7 @@
 </p>
 
 <!--
-**cosmors/cosmors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cosmo-rodrigues/cosmo-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmors" alt="Cosmo Rodrigues" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmo-rodrigues" alt="Cosmo Rodrigues" /> </p>
