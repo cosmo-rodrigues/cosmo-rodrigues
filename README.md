@@ -1,5 +1,5 @@
 ### About me...
-Since my first computer course I realized the transformative power of technology, since then I have been passionate and enthusiastic about it. I believe that through technological innovations the world can become more just.
+👷🏽 I am a web developer, focused on 𝘀𝗶𝗻𝗴𝗹𝗲 𝗽𝗮𝗴𝗲 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 highly efficients. With 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience, working with 𝗮𝗴𝗶𝗹𝗲 𝗺𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀, actively involved in the decision-making process, and collaborating with other developers. Experience with 𝗥𝗲𝗮𝗰𝘁 𝗝𝘀, Vue Js, TypeScript and 𝗡𝗼𝗱𝗲 𝗝𝗦, using, designing, and building REST APIs.
 
 ### Contact
 - 📫 Please, contact me: cosmo.rsilva@gmail.com
