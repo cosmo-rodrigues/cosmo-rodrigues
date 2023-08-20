@@ -10,38 +10,44 @@ Experience:
  - JavaScript
  - Node Js, using, designing, and building REST APIs.
 
+
 ### Contact
 - 📫 Please, contact me: cosmo.rsilva@gmail.com
-- 💬 <a href="https://drive.google.com/file/d/1Z2UCCzCKhCsygeOAfTpldR5LHckj8ur6/view?usp=sharing" target="_blank">Resume</a>
-- 🗣 <a href="https://www.linkedin.com/in/cosmo-rodrigues" target="_blank">LinkedIn</a>
+- 💬 <a target="_blank" href="https://docs.google.com/document/d/1dLbPTX8UUvbBNvCxVgVJ8io6qP5Q1iQ6QRF5ZnYi4Zo/edit?usp=sharing">Resume</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cosmo-rodrigues/)
+	[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/cosmorodrigues_/)
 
 ## Hard skills
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/redux/redux-original.svg" alt="react" width="40" height="40"/>
-  <!--
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/jquery/jquery-plain-wordmark.svg" alt="react" width="40" height="40"/> -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</p>
-<!--
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Spring" width="40" height="40"/> 
-</p>
--->
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/windows8/windows8-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/visualstudio/visualstudio-plain.svg" alt="git" width="40" height="40"/> 
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![nextdotjs](https://img.shields.io/badge/next-000?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs)
+![Node](https://img.shields.io/badge/Node-Js-000?style=for-the-badge&logo=javascript)
+
+![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+![amazonaws](https://img.shields.io/badge/amazonaws-000?style=for-the-badge&logo=amazonaws)
+![amazons3](https://img.shields.io/badge/amazons3-000?style=for-the-badge&logo=amazons3)
+![docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
+
+## Soft skills
+![Adaptability](https://img.shields.io/badge/Adaptability-8A2BE2)
+![Communication skills](https://img.shields.io/badge/Communication%20skills-d355ea)
+![Emotional intelligence](https://img.shields.io/badge/Emotional%20intelligence-54AEFF)
+![Organization](https://img.shields.io/badge/Organization-fddf68)
+![Problem-solving](https://img.shields.io/badge/Problem%20solving-39d353)
+![Teamwork](https://img.shields.io/badge/Teamwork-f85149)
+
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=cosmo-rodrigues&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmo-rodrigues&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 <!--
 **cosmo-rodrigues/cosmo-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
