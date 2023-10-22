@@ -1,7 +1,7 @@
 ### About me...
 👷🏽 I am a Web Developer:
  - Focused on responsive, attractive, and highly efficient interfaces.
- - With 2+ years of experience, working with agile methodologies and actively involved in the decision-making process and collaborating with other developers.
+ - With 3 years of experience, working with agile methodologies and actively involved in the decision-making process and collaborating with other developers.
 
 Experience:
  - React Js
