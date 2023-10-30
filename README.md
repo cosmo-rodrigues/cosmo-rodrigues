@@ -13,7 +13,7 @@ Experience:
 
 ### Contact
 - 📫 Please, contact me: cosmo.rsilva@gmail.com
-- 💬 <a target="_blank" href="https://docs.google.com/document/d/1dLbPTX8UUvbBNvCxVgVJ8io6qP5Q1iQ6QRF5ZnYi4Zo/edit?usp=sharing">Resume</a>
+- 💬 <a target="_blank" href="https://docs.google.com/document/d/1gHvXMYeHMA7IyAwMBhmiVOvCZ0TMkXkQkp-j0oHiFKQ/edit?usp=sharing">Resume</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cosmo-rodrigues/)
 	[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/cosmorodrigues_/)
