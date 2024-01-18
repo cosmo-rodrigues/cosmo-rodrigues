@@ -1,14 +1,10 @@
 ### About me...
 👷🏽 I am a Web Developer:
- - Focused on responsive, attractive, and highly efficient interfaces.
- - With 3 years of experience, working with agile methodologies and actively involved in the decision-making process and collaborating with other developers.
-
-Experience:
- - React Js
- - Vue Js
- - TypeScript
- - JavaScript
- - Node Js, using, designing, and building REST APIs.
+ - Focused on scalable and security web applications.
+ - Deeply involved in crafting solutions that bridge the gap between technology and real-world challenges.
+ - Using tools from the JavaScript environment, such as React Js, Next Js, React Native and Node js.
+ - I also can handle Python and Django.
+ - Using, designing, and building REST APIs.
 
 
 ### Contact
